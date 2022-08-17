@@ -8,6 +8,11 @@ Fue ideado para colocar en práctica los conocimientos que se van adquiriendo mi
 - CSS3
 - JavaScript
 
+
+Extra:
+- Responsive: Mobile First
+
+
 ---
 ### Sobre el Desafío:
 Las "llaves" de encriptación que se utilizarán son las siguientes:
@@ -31,3 +36,10 @@ La página debe tener campos para inserción del texto que será encriptado o de
 El resultado debe ser mostrado en la pantalla.
 #### Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+
+### Otras caracteristicas:
+
+En esta ocasión, se trató de modelar de la forma más exacta posible a la [plantilla propuesta por el equipo de Alura](https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica?node-id=0%3A1), para poder practicar y simular un ambiente de trabajo en el que se trata de imitar un modelo con colores, imagenes y medidas otorgadas.
+
+---
+## [Link a GitHub Page del proyecto](https://cmoros.github.io/Encriptador-Texto_Alura-Challenge-ONE/)
