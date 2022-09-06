@@ -39,7 +39,7 @@ body {
     min-height: 235px;
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 30px;
     line-height: 150%;
     background: transparent;
     color: #0a3871;
@@ -94,6 +94,7 @@ body {
     width: 343px;
     margin: 0 0 14px;
     height: 158px;
+    max-width: 87.2%;
 }
 
 .btn {
@@ -339,6 +340,7 @@ body {
 
     .content-container__input {
         min-height: 548px;
+        font-size: 32px;
     }
 
     .frame--frame3 {
