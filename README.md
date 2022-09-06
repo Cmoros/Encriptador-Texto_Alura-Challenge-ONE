@@ -56,6 +56,7 @@ En esta ocasión, se trató de modelar de la forma más exacta posible a la [pla
 ## Galería:
 
 Responsive Design y Ejemplo de uso
+
 [Encriptador de Texto - Alura Challenge - Challenge ONE.webm](https://user-images.githubusercontent.com/93099135/188723515-d4a9b8fe-bee9-401c-be69-8bc5c5974ee7.webm)
 
 ---
